@@ -13,10 +13,7 @@ public class Page32 {
 		String a =  "45";
 		int aValue = Integer.parseInt(a);
 		System.out.println(aValue);
-		
 		byte ba = 5;
-		
-		
 		//Page36
 		//当一个算术表达式中包含多个基本类型的值时，整个算术表达式的数据类型将发生自动提升，比如下面的sValue-2
 		short sValue = 5;
