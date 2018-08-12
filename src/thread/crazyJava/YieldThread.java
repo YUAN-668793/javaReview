@@ -21,10 +21,10 @@ public class YieldThread extends Thread {
 
     public static void main(String[] args) {
         YieldThread yt1 = new YieldThread("高级");
-        yt1.setPriority(Thread.MAX_PRIORITY);
+       // yt1.setPriority(Thread.MAX_PRIORITY);
         yt1.start();
         YieldThread yt2 = new YieldThread("低级");
-        yt2.setPriority(Thread.MIN_PRIORITY);
+        //yt2.setPriority(Thread.MIN_PRIORITY);
         yt2.start();
     }
 }
