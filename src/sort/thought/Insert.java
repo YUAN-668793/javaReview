@@ -1,6 +1,6 @@
 package sort.thought;
 
-/**
+/** 直接插入排序
  * @author Jiayuan
  * @version 1.0
  * @description:
@@ -18,9 +18,23 @@ public class Insert {
 
     public void insertSort(int[] a){
         int len = a.length;
+        for(int i=1;i<len;i++){
+            int insertNum = a[i];    //要插入的数
+            int j = i-1;        //有序序列的最后一位索引
+            while(j>=0 && insertNum<a[j]){
+                a[j+1] = a[j];
+                j--;
+            }
+            a[j+1] = insertNum;
+        }
+    }
 
-        for(int i=1;i<a.length;i++){
-            if(a[i])
+    public static void main(String[] args) {
+        int[] a = new int[]{4,5,2,3,4,7,8,9,1,0};
+        Insert insert = new Insert();
+        insert.insertSort(a);
+        for(int num:a){
+            System.out.print(num);
         }
     }
 }
