@@ -50,7 +50,7 @@ public class Quick {
     }
 
     public static void main(String[] args) {
-        int[] a = new int[]{1,7,4,3,2,0,5,9};
+        int[] a = new int[]{1,7,3,2,0};
         Quick q = new Quick();
         q.quickSort(a,0,a.length-1);
         for(int num:a){
