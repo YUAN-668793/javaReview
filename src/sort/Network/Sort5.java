@@ -1,4 +1,4 @@
-package sort;
+package sort.Network;
 
 /** 冒泡排序
  * @author Jiayuan

@@ -1,4 +1,4 @@
-package sort;
+package sort.Network;
 
 /** 希尔排序(递减增量排序算法)，分组后进行插入排序
  * @author Jiayuan

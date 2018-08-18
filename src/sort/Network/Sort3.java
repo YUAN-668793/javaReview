@@ -1,4 +1,4 @@
-package sort;
+package sort.Network;
 
 /** 简单选择排序
  * @author Jiayuan

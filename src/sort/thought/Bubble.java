@@ -14,10 +14,10 @@ package sort.thought;
  */
 public class Bubble {
     public void bubbleSort(int[] a){
-        int len = a.length;
+        int len = a.length;         //循环次数
         for(int i=0;i<len;i++){
-            for(int j=0;j<len-i-1;j++){
-                if(a[j]>a[j+1]){
+            for(int j=0;j<len-i-1;j++){ //每一轮比较的次数
+                if(a[j]>a[j+1]){        //如果前一位数比后一位数大，则交换（及向上冒泡）
                     int temp = a[j];
                     a[j] = a[j+1];
                     a[j+1] = temp;

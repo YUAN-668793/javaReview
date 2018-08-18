@@ -1,4 +1,4 @@
-package sort;
+package sort.Network;
 
 /** 堆排序(暂时先不做)
  * @author Jiayuan
