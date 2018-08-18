@@ -1,4 +1,4 @@
-package dataStruct.stack;
+package dataStruct.queue;
 
 /** 基于简单循环数组实现队列
  * @author Jiayuan
