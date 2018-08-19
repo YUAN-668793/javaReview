@@ -15,4 +15,5 @@ public class TreeFun {
             preOrder(root.getRight());
         }
     }
+
 }

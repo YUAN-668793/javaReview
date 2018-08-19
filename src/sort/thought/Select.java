@@ -19,7 +19,7 @@ public class Select {
 
     public void selectSort(int[] a){
         int len = a.length;
-        for(int i=0;i<len;i++){    //循环比较的次数
+        for(int i=0;i<len;i++){    //循环比较的次数·
             int min = a[i];        //设置当前位置的值为最小值
             int position = i;           //要交换的值的位置
             for(int j = i;j<len;j++){    //与后面的值进行比较
