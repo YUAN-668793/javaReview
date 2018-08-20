@@ -7,7 +7,6 @@ package dataStruct.stack;
  * @time 2018/8/17 20:36
  */
 public class ArrayStack {
-
     private int top;
     private int capacity;
     private int[] array;
