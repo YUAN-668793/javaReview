@@ -9,5 +9,11 @@ package review;
 public class Test7 {
     public static void main(String[] args) {
         byte a = 127;
+        float t = 0.1f;
+        int b = (int)t;
+        char c = 'a';
+        float d = 12;
+        System.out.println();
+        System.out.println(b);
     }
 }
