@@ -11,7 +11,7 @@ public class Sort8 {
     public void heapSort(int[] a){
         //循环建堆
         int len = a.length;
-        for(int i=0;i<len-1;i--){
+        for(int i=0;i<len-1;i++){
             //建堆
             buildMaxHeap(a,len-1-i);
             //交换堆顶和最后一个元素
@@ -54,6 +54,15 @@ public class Sort8 {
                     break;
                 }
             }
+        }
+    }
+
+    public static void main(String[] args) {
+        Sort8 s = new Sort8();
+        int[] a = {1,4,5,2,3,6,8,7,9,0};
+        s.heapSort(a);
+        for(int num:a){
+            System.out.print(num);
         }
     }
 
