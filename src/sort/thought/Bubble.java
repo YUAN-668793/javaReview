@@ -11,6 +11,8 @@ package sort.thought;
  * 设置循环次数
  * 设置开始比较的位数，和结束的位数
  * 两两比较，把最小的数放到前面去
+ *
+ * 时间复杂度O（n^2)
  */
 public class Bubble {
     public void bubbleSort(int[] a){
