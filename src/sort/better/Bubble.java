@@ -17,7 +17,7 @@ public class Bubble {
         int len = a.length;
         boolean swapFlag = true;    //标志位：交换标志位，true为无交换，false为有交换
         for(int i=0;i<len && swapFlag;i++){
-            swapFlag = false;      //默认不存在交换,若无交换动作干扰，可以直接跳出循环
+            swapFlag = false;      //默认不存在交换,若无交换动作干扰，可以直接跳出循环，减少不必要的循环次数
             for(int j=0;j<len-i-1;j++){
                 if(a[j]>a[j+1]){
                     int temp = a[j];
