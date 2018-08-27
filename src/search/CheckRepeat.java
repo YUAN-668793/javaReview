@@ -1,7 +1,7 @@
 package search;
 
 /** 判断数组中是否存在相同的值
- * 若优化，则先排序后在判断相邻值是否相等
+ * 若优化，则先排序后在判断相邻值是否相等   a[i] == a[i+1]
  * @author Jiayuan
  * @version 1.0
  * @description:
