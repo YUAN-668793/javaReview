@@ -12,10 +12,11 @@ public class Page18 extends Thread{
         System.out.println("run="+this.isAlive());
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         Page18 p = new Page18();
         System.out.println("begin="+p.isAlive());
         p.start();
+        //Thread.sleep(1000);   添加后，后面输出变为false，因为p对象执行完毕
         System.out.println("end="+p.isAlive());
     }
 }
