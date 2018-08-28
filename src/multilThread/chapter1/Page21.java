@@ -21,6 +21,7 @@ public class Page21 extends Thread {
     public static void main(String[] args) {
         Page21 p = new Page21();
         System.out.println("begin="+System.currentTimeMillis());
+        System.out.println("id:"+p.getId());
         p.start();    //异步执行
         System.out.println("end="+System.currentTimeMillis());
     }
