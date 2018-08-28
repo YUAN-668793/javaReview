@@ -9,7 +9,7 @@ package multilThread.chapter1;
 public class Page11 extends Thread {
     private int count = 5;
     @Override
-    public void run(){
+    synchronized public void run(){
         super.run();
         count--;   //非原子操作
         System.out.println("由"+this.currentThread().getName()+"计算，count="+count);
