@@ -8,6 +8,7 @@ package multilThread.chapter1;
  */
 public class Page50 extends Thread {
     private int i=0;
+
     @Override
     public void run(){
         try{
