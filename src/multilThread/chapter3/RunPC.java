@@ -1,6 +1,6 @@
 package multilThread.chapter3;
 
-/**
+/** 生产者-消费者模型启动类
  * @author Jiayuan
  * @version 1.0
  * @description:
