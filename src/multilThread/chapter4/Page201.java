@@ -16,7 +16,7 @@ public class Page201 extends Thread {
         service.testMethod();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException{
         Page200 service = new Page200();
         Page201 a1 = new Page201(service);
         Page201 a2 = new Page201(service);
@@ -25,6 +25,8 @@ public class Page201 extends Thread {
         Page201 a5 = new Page201(service);
         Page201 a6 = new Page201(service);
         a1.start();
+        Thread.sleep(3000);
+        service.signal();
         a2.start();
         a3.start();
         a4.start();
