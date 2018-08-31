@@ -1,4 +1,4 @@
-package multilThread.chapter3;
+package multilThread.chapter3.pcRunner;
 
 /** 消费者
  * @author Jiayuan

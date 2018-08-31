@@ -1,4 +1,6 @@
-package multilThread.chapter3;
+package multilThread.chapter3.pcRunner;
+
+import multilThread.chapter3.pcRunner.C;
 
 /** 消费者线程
  * @author Jiayuan
