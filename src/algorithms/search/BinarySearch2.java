@@ -1,4 +1,4 @@
-package search;
+package algorithms.search;
 
 /** 递归的二分查找算法
  * @author Jiayuan

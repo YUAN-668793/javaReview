@@ -1,4 +1,4 @@
-package search;
+package algorithms.search;
 
 /** 有序线性查找
  * @author Jiayuan
