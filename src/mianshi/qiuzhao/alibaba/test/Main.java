@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @version 1.0
  * @description:
  * @time 9/7/2018 8:04 PM
+ * keep positive
  */
 public class Main {
     public static void main(String[] args) {
