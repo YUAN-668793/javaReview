@@ -61,5 +61,6 @@ public class Main {
         if(x1<positionX || x2<positionY){
             System.out.println("yes,0");
         }
+
     }
 }
