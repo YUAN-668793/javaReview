@@ -1,4 +1,4 @@
-package sort.thought;
+package algorithms.sort.thought;
 
 /**堆排序
  * @author Jiayuan
@@ -7,7 +7,8 @@ package sort.thought;
  * @time 8/22/2018 8:56 PM
  */
 
-import sort.Network.Sort8;
+import algorithms.sort.Network.Sort8;
+
 
 /**
  * 基本思想

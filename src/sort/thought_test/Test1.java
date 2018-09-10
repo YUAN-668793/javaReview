@@ -1,7 +1,5 @@
 package sort.thought_test;
 
-import sort.thought.Insert;
-
 /**
  * @author Jiayuan
  * @version 1.0

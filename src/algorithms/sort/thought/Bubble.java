@@ -1,4 +1,4 @@
-package sort.thought;
+package algorithms.sort.thought;
 
 /** 冒泡排序
  * @author Jiayuan

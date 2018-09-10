@@ -1,4 +1,4 @@
-package sort.thought;
+package algorithms.sort.thought;
 
 /** 直接插入排序
  * @author Jiayuan
