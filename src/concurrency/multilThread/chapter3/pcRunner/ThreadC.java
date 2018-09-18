@@ -1,6 +1,4 @@
-package multilThread.chapter3.pcRunner;
-
-import multilThread.chapter3.pcRunner.C;
+package concurrency.multilThread.chapter3.pcRunner;
 
 /** 消费者线程
  * @author Jiayuan
