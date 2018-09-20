@@ -65,6 +65,7 @@ public class HashMapTest {
         for(Map.Entry<Integer,User> entry:list){
             linkedHashMap.put(entry.getKey(),entry.getValue());
         }
+
         return linkedHashMap;
     }
 }
