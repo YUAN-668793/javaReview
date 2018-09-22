@@ -21,6 +21,7 @@ package mianshi.jianzhiOffer;
  */
 public class Test6 {
     public int minNumberInRotateArray(int [] array) {
+
         int len = array.length;
         if(len == 0){
             return 0;

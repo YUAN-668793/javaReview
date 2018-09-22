@@ -27,7 +27,7 @@ import java.util.Comparator;
 /**
  * https://www.nowcoder.com/practice/a6a656249f404eb498d16b2f8eaa2c60?tpId=85&&tqId=29898&rp=1&ru=/activity/oj&qru=/ta/2017test/question-ranking
  */
-public class Main {
+public class Main{
 
     public static void main(String[] args) throws IOException {
         // TODO Auto-generated method stub
@@ -40,6 +40,7 @@ public class Main {
             String[] sarr = line.trim().split(" ");
             Arrays.sort(sarr, new Comparator<String>() {
 
+                @Override
                 public int compare(String o1, String o2) {
                     // TODO Auto-generated method stub
                     int size = o1.length() + o2.length();
