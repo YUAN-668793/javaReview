@@ -67,3 +67,14 @@ mybatis底层原理，spring IOC 和AOP，计算机网络三次握手，TCP,IP�
 
 
 多线程在实际项目中的应用（百度）
+
+
+
+注意看面试宝典少看过的部分，web方面，还有后期的分布式
+25号：mysql存储过程（注意基本的使用，常见考题），博客算法，数据结构，牛客网在线编程
+26号：JAVA疯狂讲义（多线程，集合，IO，网络编程，Java虚拟机） Java面试宝典
+27号：spring,面试，晚上笔试（蘑菇街）
+
+
+
+left/right outer join / inner join
