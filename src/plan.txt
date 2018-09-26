@@ -77,4 +77,21 @@ mybatis底层原理，spring IOC 和AOP，计算机网络三次握手，TCP,IP�
 
 
 
+
+晚上准备（找几个深度！！！注意耗子说的）
+
+集合源码，多线程，虚拟机
+
+请求行√
+设计模式（看书）
+redis缓存√，sso单点登录√
+实习项目
+SpringMVC的工作原理√
+spring ioc,aop看能不能深入（看书）
+只看面试宝典后面部分！！！（数据库，web基础，多线程，分布式，注意理解）√
+数据库存储引擎，索引优化
 left/right outer join / inner join
+kmp
+写ajax
+git命令
+前端页面加载顺序
