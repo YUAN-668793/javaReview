@@ -1,4 +1,4 @@
-package dataStruct.tree;
+package algorithms.dataStruct.tree;
 
 /** 二叉搜索树非递归版本
  * @author Jiayuan
@@ -7,7 +7,7 @@ package dataStruct.tree;
  * @time 8/27/2018 2:54 PM
  */
 public class BinarySearchTreeNode1 {
-    public BinaryTreeNode find(BinaryTreeNode root,int data){
+    public BinaryTreeNode find(BinaryTreeNode root, int data){
         if(root == null) return null;
         while(root != null){
             if(data == root.getData()){

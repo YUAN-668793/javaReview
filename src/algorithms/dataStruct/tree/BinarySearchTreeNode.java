@@ -1,5 +1,4 @@
-package dataStruct.tree;
-
+package algorithms.dataStruct.tree;
 
 /** 二叉搜索树寻找元素
  * @author Jiayuan
@@ -10,7 +9,7 @@ package dataStruct.tree;
 public class BinarySearchTreeNode {
 
     //搜索指定元素
-    public BinaryTreeNode find(BinaryTreeNode root,int data){
+    public BinaryTreeNode find(BinaryTreeNode root, int data){
         if(root == null){
             return null;
         }if(data<root.getData()){

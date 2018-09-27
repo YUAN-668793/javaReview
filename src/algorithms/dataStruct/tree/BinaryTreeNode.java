@@ -1,4 +1,4 @@
-package dataStruct.tree;
+package algorithms.dataStruct.tree;
 
 /** 二叉树
  * @author Jiayuan

@@ -1,4 +1,4 @@
-package dataStruct.tree;
+package algorithms.dataStruct.tree;
 
 /**
  * @author Jiayuan
