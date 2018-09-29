@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /** 停止线程（通过异常退出）
  * @author Jiayuan

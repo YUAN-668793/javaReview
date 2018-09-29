@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /** isAlive()方法
  * @author Jiayuan

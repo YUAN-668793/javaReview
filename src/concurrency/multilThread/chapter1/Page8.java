@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /** 实现runnable接口
  * @author Jiayuan

@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /** sleep方法
  * @author Jiayuan

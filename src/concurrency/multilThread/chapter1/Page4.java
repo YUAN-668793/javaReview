@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /**一个线程在运行时至少有一个主线程在运行
  * @author Jiayuan

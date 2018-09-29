@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /**继承Thread类
  * 注意查看运行结果，在使用多线程技术时，代码的运行结果与代码执行顺序或调用顺序是无关的

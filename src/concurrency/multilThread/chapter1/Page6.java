@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /**线程随机性
  * 线程启动顺序与start()执行顺序无关

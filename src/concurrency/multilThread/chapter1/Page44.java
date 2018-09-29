@@ -1,4 +1,4 @@
-package multilThread.chapter1;
+package concurrency.multilThread.chapter1;
 
 /** 线程优先级继承特性
  * 线程的优先级具有继承性，比如A启动线程B，则B线程的优先级与A是一样的（Page43)
