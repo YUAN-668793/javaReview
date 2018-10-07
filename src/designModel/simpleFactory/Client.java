@@ -10,7 +10,7 @@ package designModel.simpleFactory;
 public class Client {
     public static void main(String[] args) throws Exception{
         Operation oper = null;
-        oper = OperationFactory.createOperate("+");
+        oper = OperationFactory.createOperate("-");
         oper.set_numberA(2);
         oper.set_numberB(5);
         System.out.println(oper.getResult());
