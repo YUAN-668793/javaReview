@@ -1,4 +1,4 @@
-package dataStruct.linkList;
+package algorithms.dataStruct.linkList;
 
 /** 双向链表
  * @author Jiayuan

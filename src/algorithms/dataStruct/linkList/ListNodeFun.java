@@ -1,4 +1,4 @@
-package dataStruct.linkList;
+package algorithms.dataStruct.linkList;
 
 /** 单向链表操作
  * @author Jiayuan

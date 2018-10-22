@@ -1,4 +1,4 @@
-package dataStruct.stack;
+package algorithms.dataStruct.stack;
 
 /** 基于数组实现栈
  * @author Jiayuan

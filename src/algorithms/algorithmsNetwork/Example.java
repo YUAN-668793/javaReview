@@ -1,4 +1,4 @@
-package algorithmsNetwork;
+package algorithms.algorithmsNetwork;
 
 import java.util.ArrayList;
 import java.util.List;
