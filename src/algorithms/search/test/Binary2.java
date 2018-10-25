@@ -1,7 +1,5 @@
 package algorithms.search.test;
 
-import algorithms.search.BinarySearch1;
-
 /**
  * @author Jiayuan
  * @version 1.0
