@@ -1,4 +1,4 @@
-package chapter9;
+package crazyJava.chapter9;
 
 import java.io.FileInputStream;
 

@@ -1,4 +1,4 @@
-package chapter6;
+package crazyJava.chapter6;
 
 /*
  * StringBuilder用法

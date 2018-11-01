@@ -1,4 +1,4 @@
-package chapter9;
+package crazyJava.chapter9;
 
 public class Page280 {
 	public static void main(String[] args) {

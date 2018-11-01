@@ -1,4 +1,4 @@
-package chapter6;
+package crazyJava.chapter6;
 
 public class Page187 {
 	public static void main(String[] args) throws Exception{

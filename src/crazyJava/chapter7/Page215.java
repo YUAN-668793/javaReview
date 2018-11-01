@@ -1,4 +1,4 @@
-package chapter7;
+package crazyJava.chapter7;
 
 import java.util.stream.IntStream;
 /*

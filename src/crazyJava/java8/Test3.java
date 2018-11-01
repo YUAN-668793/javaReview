@@ -1,4 +1,4 @@
-package java8;
+package crazyJava.java8;
 
 import org.junit.Test;
 

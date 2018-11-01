@@ -1,4 +1,4 @@
-package chapter6;
+package crazyJava.chapter6;
 
 import java.io.FileOutputStream;
 import java.util.Map;

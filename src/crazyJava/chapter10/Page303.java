@@ -1,4 +1,4 @@
-package chapter10;
+package crazyJava.chapter10;
 
 @FunctionalInterface
 public interface Page303 {

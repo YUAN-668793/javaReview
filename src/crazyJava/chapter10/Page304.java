@@ -1,4 +1,4 @@
-package chapter10;
+package crazyJava.chapter10;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
