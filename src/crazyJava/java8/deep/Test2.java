@@ -3,7 +3,7 @@ package crazyJava.java8.deep;
 import java.util.Arrays;
 import java.util.List;
 
-/**
+/** lambda表达式打印
  * @author Jiayuan
  * @version 1.0
  * @description:
@@ -20,5 +20,7 @@ public class Test2 {
         //Java8之后
         List<String> features2 =  Arrays.asList("Lambdas","default Method","streamAPI","Date and Time");
         features2.forEach(n-> System.out.println(n));
+
+        features2.forEach(System.out::println);
     }
 }

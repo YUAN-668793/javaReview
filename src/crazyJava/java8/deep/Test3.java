@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 /** 使用lambda表达式和函数式接口Predicate
  * @author Jiayuan
  * @version 1.0
- * @description:
+ * @description:0
  * @time 11/1/2018 3:47 PM
  */
 public class Test3 {
