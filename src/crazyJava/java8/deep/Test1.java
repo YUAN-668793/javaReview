@@ -6,6 +6,7 @@ package crazyJava.java8.deep;
  * @description:
  * @time 11/1/2018 3:27 PM
  */
+//函数式接口即只定义一个抽象方法的接口。
 public class Test1 {
     public static void main(String[] args) {
         //Java8之前

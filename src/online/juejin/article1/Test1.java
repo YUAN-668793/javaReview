@@ -1,4 +1,4 @@
-package online.juejin;
+package online.juejin.article1;
 
 import java.util.Arrays;
 import java.util.List;
@@ -26,7 +26,6 @@ public class Test1 {
         // 都按照规则转换成为另外一个元素。比如把大写字母转换成小写。
         List<String> wordList = Arrays.asList("H","E","L","L","0");
         List<String> outputList = wordList.stream().map(String::toLowerCase).collect(Collectors.toList());
-
 
     }
 }

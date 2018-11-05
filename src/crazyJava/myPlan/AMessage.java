@@ -1,4 +1,4 @@
-package myPlan;
+package crazyJava.myPlan;
 
 public class AMessage {
 	public static void main(String[] args) {
