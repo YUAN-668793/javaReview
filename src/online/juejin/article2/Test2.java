@@ -40,6 +40,9 @@ public class Test2 extends AbstractQueuedSynchronizer {
     }
 
     public static void main(String[] args) {
-
+         Test2 t = new Test2();
+         t.setState(6);
+         int result = t.tryAcquireShared(6);
+        System.out.println(result);
     }
 }
