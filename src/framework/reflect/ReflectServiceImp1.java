@@ -8,16 +8,16 @@ import org.junit.Test;
  * @description:
  * @time 11/24/2018 10:55 AM
  */
-public class ReflectServiceImpl {
+public class ReflectServiceImp1 {
     public void sayHello(String name){
         System.out.println("Hello "+name);
     }
 
     @Test
     public void getInstance(){
-        ReflectServiceImpl object = null;
+        ReflectServiceImp1 object = null;
         try{
-            object = (ReflectServiceImpl) Class.forName("framework.reflect.ReflectServiceImpl").newInstance();
+            object = (ReflectServiceImp1) Class.forName("framework.reflect.ReflectServiceImp1").newInstance();
         }catch(ClassNotFoundException | InstantiationException | IllegalAccessException ex){
             ex.printStackTrace();
         }
