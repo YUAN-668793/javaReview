@@ -1,40 +1,34 @@
 package framework.reflect;
 
 import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 
-/** 带构造参数类反射
+/** 反射方法
  * @author Jiayuan
  * @version 1.0
  * @description:
  * @time 11/24/2018 11:03 AM
  */
 public class ReflectServiceImp2 {
-    private String name;
 
-    public ReflectServiceImp2(){}
-
-    public ReflectServiceImp2(String name){
-        this.name = name;
-    }
-
-    public void sayHello(){
+    public void sayHello(String name){
         System.out.println("hello "+name);
     }
 
-    public static ReflectServiceImp2 getInstance(){
-        ReflectServiceImp2 object = null;
+    public  Object reflectMethod(){
+        Object returnObj = null;
+        ReflectServiceImp2 target = new ReflectServiceImp2();
         try{
-            object = (ReflectServiceImp2) Class.forName("framework.reflect.ReflectServiceImp2").getConstructor(String.class).
-                    newInstance("test");
-        }catch(ClassNotFoundException | InstantiationException | IllegalAccessException | NoSuchMethodException
-                | SecurityException | IllegalArgumentException | InvocationTargetException ex){
+            Method method = ReflectServiceImp2.class.getMethod("sayHello",String.class);
+            returnObj = method.invoke(target,"test");
+        }catch(NoSuchMethodException | SecurityException | IllegalAccessException | IllegalArgumentException |
+                InvocationTargetException ex){
             ex.printStackTrace();
         }
-        object.sayHello();
-        return object;
+        return returnObj;
     }
 
     public static void main(String[] args) {
-         ReflectServiceImp2.getInstance();
+       new ReflectServiceImp2().reflectMethod();
     }
 }
