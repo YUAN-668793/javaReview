@@ -1,4 +1,4 @@
-package chapter11;
+package crazyJava.chapter11;
 
 /**
  * Created by Jiayuan on 2018/3/6.

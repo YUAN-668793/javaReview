@@ -1,4 +1,4 @@
-package chapter5;
+package crazyJava.chapter5;
 
 public class Page135 {
 	private static void test() {

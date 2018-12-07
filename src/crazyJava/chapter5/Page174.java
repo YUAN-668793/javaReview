@@ -1,4 +1,4 @@
-package chapter5;
+package crazyJava.chapter5;
 
 public class Page174 {
 	public void judge(SeasonEnum s) {
@@ -18,7 +18,7 @@ public class Page174 {
 		}
 	}
 	public static void main(String[] args) {
-		for(SeasonEnum s:SeasonEnum.values()) {
+		for(SeasonEnum s: SeasonEnum.values()) {
 			System.out.println(s);
 		}
 		new Page174().judge(SeasonEnum.SPRING);

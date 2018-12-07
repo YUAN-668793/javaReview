@@ -1,4 +1,4 @@
-package review;
+package crazyJava.review;
 
 import java.util.Collection;
 import java.util.HashSet;

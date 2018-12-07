@@ -1,4 +1,4 @@
-package chapter11;
+package crazyJava.chapter11;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

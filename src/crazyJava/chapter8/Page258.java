@@ -1,4 +1,4 @@
-package chapter8;
+package crazyJava.chapter8;
 
 public class Page258<T> {
 	private T info;

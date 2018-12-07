@@ -1,4 +1,4 @@
-package chapter5;
+package crazyJava.chapter5;
 
 public enum SeasonEnum {
 	SPRING,SUMMER,FALL,WINTER;

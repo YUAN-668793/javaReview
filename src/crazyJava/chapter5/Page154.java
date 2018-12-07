@@ -1,4 +1,4 @@
-package chapter5;
+package crazyJava.chapter5;
 
 public class Page154 {
 	private String prop = "外部类的实例变量";
