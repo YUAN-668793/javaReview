@@ -8,34 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e23f1fee-134d-4bfe-be90-329f2ba97da9" name="Default" comment="2018/12/05">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter11/FilesTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter11/Page324.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter11/Page328.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter11/Page341.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter11/Page342.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/Page135.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/Page140.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/Page154$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/Page154$InClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/Page154.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/Page174$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/Page174.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter5/SeasonEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/chapter8/Page258.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter11/FilesTest.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter11/FilesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter11/Page324.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter11/Page324.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter11/Page328.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter11/Page328.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter11/Page341.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter11/Page341.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter11/Page342.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter11/Page342.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter5/Page135.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter5/Page135.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter5/Page140.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter5/Page140.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter5/Page154.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter5/Page154.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter5/Page174.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter5/Page174.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter5/SeasonEnum.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter5/SeasonEnum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/chapter8/Page258.java" afterPath="$PROJECT_DIR$/src/crazyJava/chapter8/Page258.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/java8/deep/Test5.java" afterPath="$PROJECT_DIR$/src/crazyJava/java8/deep/Test5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/review/Test1.java" afterPath="$PROJECT_DIR$/src/crazyJava/review/Test1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/crazyJava/review/Test2.java" afterPath="$PROJECT_DIR$/src/crazyJava/review/Test2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/plan.txt" afterPath="$PROJECT_DIR$/src/plan.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,26 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="FirstThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/crazyJava/FirstThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JoinThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/crazyJava/JoinThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SecondThread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/crazyJava/SecondThread.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -151,11 +105,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreadDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/threadDemo/ThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="504">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crazyJava/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plan.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/plan.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -226,7 +200,6 @@
         <option value="$PROJECT_DIR$/src/framework/proxy/HelloWorldImpl.java" />
         <option value="$PROJECT_DIR$/src/framework/proxy/JdkProxyExample.java" />
         <option value="$PROJECT_DIR$/src/framework/proxy/CglibProxyExample.java" />
-        <option value="$PROJECT_DIR$/src/plan.txt" />
         <option value="$PROJECT_DIR$/src/framework/Main.java" />
         <option value="$PROJECT_DIR$/src/framework/reflect/Main.java" />
         <option value="$PROJECT_DIR$/src/crazyJava/chapter8/Page258.java" />
@@ -243,6 +216,7 @@
         <option value="$PROJECT_DIR$/src/crazyJava/java8/deep/Test5.java" />
         <option value="$PROJECT_DIR$/src/crazyJava/review/Test2.java" />
         <option value="$PROJECT_DIR$/src/crazyJava/review/Test1.java" />
+        <option value="$PROJECT_DIR$/src/plan.txt" />
       </list>
     </option>
   </component>
@@ -253,9 +227,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="x" value="-141" />
+    <option name="y" value="20" />
+    <option name="width" value="1096" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -290,19 +264,6 @@
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaReview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crazyJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crazyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="review" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
@@ -699,7 +660,7 @@
       <workItem from="1543714427810" duration="2661000" />
       <workItem from="1543735490136" duration="687000" />
       <workItem from="1543971647309" duration="2180000" />
-      <workItem from="1544191583262" duration="14000" />
+      <workItem from="1544191583262" duration="336000" />
     </task>
     <task id="LOCAL-00069" summary="jd 笔试">
       <created>1536501329380</created>
@@ -1068,7 +1029,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="407574000" />
+    <option name="totallyTimeSpent" value="407896000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1091,8 +1052,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16941176" sideWeight="0.49194413" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27294117" sideWeight="0.50805587" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14688602" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4216152" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3135392" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21052632" sideWeight="0.49322033" order="0" side_tool="false" content_ui="combo" />
@@ -1257,20 +1218,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter6/Page199.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter6/Page200.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter5/Page135.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1620,8 +1567,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/threadDemo/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="504">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crazyJava/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/plan.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding />
         </state>
       </provider>
