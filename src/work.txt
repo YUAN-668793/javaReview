@@ -1,0 +1,21 @@
+工作gitlab提交日志
+
+
+
+
+2018-12-10
+
+张嘉源 pushed to branch 20181206_operation-service_orgAudit at btr-project / operation-service         修改更新字段DTO
+张嘉源 pushed to branch 20181207_operation-web_orgAudit at btr-project / operation-web         check test result
+
+2018-12-07
+张嘉源 pushed new branch 20181206_operation-service_orgAudit at btr-project / operation-service
+张嘉源 pushed new branch 20181207_operation-web_orgAudit at btr-project / operation-web
+
+2018-12-04
+张嘉源 joined project btr-project / logistics-api
+张嘉源 joined project btr-project / operation-service
+张嘉源 joined project btr-project / operation-web
+张嘉源 joined project btr-project / btr-ofc
+
+
