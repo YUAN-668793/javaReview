@@ -1,5 +1,9 @@
 keep positive
 
+keep working
+
+修改git邮箱账号 git config --global user.email "2352840798@qq.com"
+
 ===================================================
 笔试复习期：  将看过的书快速过一遍
 （暂定）
