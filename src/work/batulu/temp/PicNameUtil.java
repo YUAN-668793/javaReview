@@ -1,0 +1,45 @@
+package work.batulu.temp;
+
+import java.text.SimpleDateFormat;
+import java.util.Arrays;
+import java.util.Date;
+import java.util.List;
+import java.util.UUID;
+import java.util.stream.Collectors;
+
+/** 图片命名
+ * @author zhangjiayuan@qipeipu.com
+ * @date 12/11/2018 9:11 AM
+ * @since 1.0.0
+ */
+public final class PicNameUtil{
+
+    private static final SimpleDateFormat slf = new SimpleDateFormat("yyyyMMdd");
+
+    /**
+     * 单个文件命名(当前日期+uuid+后缀名)
+     * @return
+     */
+    public static String givePicName(String picName){
+        String suffix = "."+picName.substring(picName.lastIndexOf(".") + 1);
+        return (slf.format(new Date()))+UUID.randomUUID().toString()+suffix;
+    }
+
+    /**
+     * 批量文件命名(当前日期+uuid+后缀名)
+     * @param picNames
+     * @return
+     */
+    public static List<String> givePicNames(List<String> picNames){
+        Date now = new Date();
+        return picNames.stream().map(f->slf.format(now)+
+                UUID.randomUUID().toString()+"."+f.substring(f.lastIndexOf(".") + 1))
+                .collect(Collectors.toList());
+    }
+
+    public static void main(String[] args) {
+        String result =  PicNameUtil.givePicName("duiadadu微信图片.jpg");
+       List<String> fileNames = givePicNames(Arrays.asList("jfdofdsfupsjpg","fdserjeojpg","7dsad8adjpg"));
+        System.out.println();
+    }
+}
