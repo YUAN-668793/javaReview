@@ -5,11 +5,15 @@
   </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/concurrency/multilThread/chapter1/Page6.java" line="29" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java" line="23" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e23f1fee-134d-4bfe-be90-329f2ba97da9" name="Default" comment="2018/12/08 修改git邮箱账号">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/work/batulu/temp/FileName.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/plan.txt" afterPath="$PROJECT_DIR$/src/plan.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/plan.txt" afterPath="$PROJECT_DIR$/bin/plan.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/work.txt" afterPath="$PROJECT_DIR$/src/work.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java" afterPath="$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="work.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="work.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/work.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+            <state relative-caret-position="100">
+              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -48,8 +52,8 @@
       <file leaf-file-name="PicNameUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+            <state relative-caret-position="240">
+              <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,12 +61,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plan.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/plan.txt">
+      <file leaf-file-name="Page403Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter13/Page403Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="149">
+              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/work/batulu/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormulaImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,11 +97,21 @@
       <file leaf-file-name="Calendar.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Java/jdk1.8.0_65/src.zip!/java/util/Calendar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5518">
-              <caret line="312" column="76" lean-forward="false" selection-start-line="312" selection-start-column="76" selection-end-line="312" selection-end-column="76" />
+            <state relative-caret-position="582">
+              <caret line="2970" column="27" lean-forward="false" selection-start-line="2970" selection-start-column="27" selection-end-line="2970" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/thought_test/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,8 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/crazyJava/java8/deep/Test4.java" />
-        <option value="$PROJECT_DIR$/src/crazyJava/java8/deep/Test6.java" />
         <option value="$PROJECT_DIR$/src/crazyJava/java8/deep/Test2.java" />
         <option value="$PROJECT_DIR$/src/crazyJava/java8/deep/Test7.java" />
         <option value="$PROJECT_DIR$/src/crazyJava/myPlan/AMessage.java" />
@@ -158,13 +193,15 @@
         <option value="$PROJECT_DIR$/src/crazyJava/review/Test1.java" />
         <option value="$PROJECT_DIR$/src/work/batulu/Main.java" />
         <option value="$PROJECT_DIR$/src/work/batulu/java8/Formula.java" />
-        <option value="$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java" />
         <option value="$PROJECT_DIR$/src/work/batulu/java8/LambdaExpress.java" />
-        <option value="$PROJECT_DIR$/src/work.txt" />
         <option value="$PROJECT_DIR$/src/work/batulu/temp/FileName.java" />
         <option value="$PROJECT_DIR$/src/work/batulu/temp/PicNameUtils.java" />
         <option value="$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java" />
         <option value="$PROJECT_DIR$/src/plan.txt" />
+        <option value="$PROJECT_DIR$/src/work/batulu/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java" />
+        <option value="$PROJECT_DIR$/src/sort/thought_test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/work.txt" />
       </list>
     </option>
   </component>
@@ -175,10 +212,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="127" />
-    <option name="y" value="89" />
+    <option name="x" value="834" />
+    <option name="y" value="94" />
     <option name="width" value="1358" />
-    <option name="height" value="724" />
+    <option name="height" value="872" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -231,6 +268,19 @@
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaReview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="thought_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="work" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -239,6 +289,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="work" type="462c0819:PsiDirectoryNode" />
               <item name="batulu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="batulu" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
@@ -247,6 +305,14 @@
               <item name="work" type="462c0819:PsiDirectoryNode" />
               <item name="batulu" type="462c0819:PsiDirectoryNode" />
               <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="batulu" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
@@ -317,7 +383,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileName">
+  <component name="RunManager" selected="Application.FormulaImpl">
     <configuration name="FileName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -356,31 +422,6 @@
       <module name="javaReview" />
       <envs />
     </configuration>
-    <configuration name="JdkProxyExample.testJdkProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="framework.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="javaReview" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="framework.proxy" />
-      <option name="MAIN_CLASS_NAME" value="framework.proxy.JdkProxyExample" />
-      <option name="METHOD_NAME" value="testJdkProxy" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="LambdaExpress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -389,6 +430,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="work.batulu.java8.LambdaExpress" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaReview" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="work.batulu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="work.batulu.test.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -501,19 +561,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.JdkProxyExample.testJdkProxy" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FormulaImpl" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LambdaExpress" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FileName" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FormulaImpl" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LambdaExpress" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FileName" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FileName" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LambdaExpress" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FormulaImpl" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test1" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.JdkProxyExample.testJdkProxy" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FormulaImpl" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FileName" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LambdaExpress" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -653,7 +713,9 @@
       <workItem from="1544260045225" duration="821000" />
       <workItem from="1544336626189" duration="775000" />
       <workItem from="1544408902170" duration="4545000" />
-      <workItem from="1544490669751" duration="9649000" />
+      <workItem from="1544490669751" duration="9813000" />
+      <workItem from="1544593536809" duration="1283000" />
+      <workItem from="1544691583793" duration="3333000" />
     </task>
     <task id="LOCAL-00069" summary="jd 笔试">
       <created>1536501329380</created>
@@ -1022,7 +1084,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="425883000" />
+    <option name="totallyTimeSpent" value="430663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1045,12 +1107,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27118644" sideWeight="0.46478122" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29943502" sideWeight="0.50805587" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4216152" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16949153" sideWeight="0.50805587" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40338984" sideWeight="0.49459878" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40451977" sideWeight="0.49459878" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15368196" sideWeight="0.49322033" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10885806" sideWeight="0.49322033" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3723404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1058,8 +1120,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118644066" sideWeight="0.5352188" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16809882" sideWeight="0.5067797" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27118644" sideWeight="0.5352188" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1200,6 +1262,12 @@
           <properties />
           <option name="timeStamp" value="205" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -1209,7 +1277,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="206" />
+      <option name="time" value="210" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1218,20 +1286,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter10/Page304.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter11/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter11/FilesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1506,14 +1560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/work/batulu/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/work/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -1529,13 +1575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/work/batulu/java8/Formula.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1543,18 +1582,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/work.txt">
+    <entry file="file://$PROJECT_DIR$/src/plan.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+        <state relative-caret-position="80">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/src.zip!/java/util/Calendar.java">
+    <entry file="file://$PROJECT_DIR$/src/work/batulu/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5518">
-          <caret line="312" column="76" lean-forward="false" selection-start-line="312" selection-start-column="76" selection-end-line="312" selection-end-column="76" />
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1563,26 +1610,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/crazyJava/chapter13/Page403Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        <state relative-caret-position="149">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/work/batulu/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        <state relative-caret-position="220">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/work/batulu/java8/FormulaImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_65/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="2970" column="27" lean-forward="false" selection-start-line="2970" selection-start-column="27" selection-end-line="2970" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/plan.txt">
+    <entry file="file://$PROJECT_DIR$/src/sort/thought_test/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="182">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/work.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>

@@ -15,6 +15,7 @@ public class FormulaImpl  {
         };
         double calcResult = formula.calculate(100);
         double sqrtResult = formula.sqrt(16);
+
         System.out.println(calcResult+"=="+sqrtResult);
     }
 
