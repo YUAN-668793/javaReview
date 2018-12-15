@@ -9,11 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e23f1fee-134d-4bfe-be90-329f2ba97da9" name="Default" comment="2018/12/08 修改git邮箱账号">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/work/batulu/java8/FormulaImpl.class" afterPath="$PROJECT_DIR$/bin/work/batulu/java8/FormulaImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/work/batulu/temp/PicNameUtil.class" afterPath="$PROJECT_DIR$/bin/work/batulu/temp/PicNameUtil.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/work.txt" afterPath="$PROJECT_DIR$/bin/work.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java" afterPath="$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +38,8 @@
       <file leaf-file-name="PicNameUtil.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="41" column="69" lean-forward="false" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
+            <state relative-caret-position="519">
+              <caret line="36" column="80" lean-forward="false" selection-start-line="36" selection-start-column="80" selection-end-line="36" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,7 +90,7 @@
       <file leaf-file-name="Launcher.class" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Java/jdk1.8.0_65/jre/lib/rt.jar!/sun/misc/Launcher.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4648">
+            <state relative-caret-position="4704">
               <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
               <folding />
             </state>
@@ -228,11 +224,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="857" />
-    <option name="y" value="49" />
-    <option name="width" value="1358" />
-    <option name="height" value="872" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="772" />
+    <option name="y" value="9" />
+    <option name="width" value="1312" />
+    <option name="height" value="974" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -253,6 +249,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,46 +267,6 @@
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaReview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crazyJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crazyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crazyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crazyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="thought_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="work" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -317,14 +275,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="work" type="462c0819:PsiDirectoryNode" />
               <item name="batulu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="batulu" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
@@ -333,14 +283,6 @@
               <item name="work" type="462c0819:PsiDirectoryNode" />
               <item name="batulu" type="462c0819:PsiDirectoryNode" />
               <item name="temp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="batulu" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaReview" type="b2602c69:ProjectViewProjectNode" />
@@ -434,9 +376,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -815,7 +755,8 @@
       <workItem from="1544593536809" duration="1283000" />
       <workItem from="1544691583793" duration="4858000" />
       <workItem from="1544770247271" duration="4047000" />
-      <workItem from="1544850871038" duration="686000" />
+      <workItem from="1544850871038" duration="5429000" />
+      <workItem from="1544879040090" duration="47000" />
     </task>
     <task id="LOCAL-00069" summary="jd 笔试">
       <created>1536501329380</created>
@@ -1193,7 +1134,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="436921000" />
+    <option name="totallyTimeSpent" value="441711000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1205,7 +1146,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1216,10 +1157,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3723404" sideWeight="0.49785176" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29943502" sideWeight="0.50805587" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5106383" sideWeight="0.49459878" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2789598" sideWeight="0.49459878" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16863587" sideWeight="0.49322033" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1707841" sideWeight="0.49322033" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946634" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23147154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1587,7 +1528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1632,7 +1572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1647,7 +1586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1692,8 +1630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="41" column="69" lean-forward="false" selection-start-line="41" selection-start-column="69" selection-end-line="41" selection-end-column="69" />
+        <state relative-caret-position="519">
+          <caret line="36" column="80" lean-forward="false" selection-start-line="36" selection-start-column="80" selection-end-line="36" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1732,14 +1670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_65/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4648">
-          <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/work/batulu/java8/LambdaExpress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -1762,6 +1692,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5432">
           <caret line="233" column="9" lean-forward="false" selection-start-line="233" selection-start-column="9" selection-end-line="233" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_65/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4704">
+          <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
           <folding />
         </state>
       </provider>
