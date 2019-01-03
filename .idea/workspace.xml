@@ -50,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
+            <state relative-caret-position="352">
               <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
             </state>
           </provider>
@@ -59,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/work/batulu/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="154">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -214,10 +214,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="670" />
-    <option name="y" value="10" />
+    <option name="x" value="273" />
+    <option name="y" value="59" />
     <option name="width" value="1315" />
-    <option name="height" value="975" />
+    <option name="height" value="921" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -613,7 +613,8 @@
       <workItem from="1546270662022" duration="596000" />
       <workItem from="1546326545125" duration="3581000" />
       <workItem from="1546331675847" duration="18000" />
-      <workItem from="1546430813321" duration="40000" />
+      <workItem from="1546430813321" duration="84000" />
+      <workItem from="1546515115930" duration="8000" />
     </task>
     <task id="LOCAL-00070" summary="包目录">
       <created>1536573893930</created>
@@ -994,7 +995,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459205000" />
+    <option name="totallyTimeSpent" value="459257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1009,7 +1010,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49322033" visible="true" weight="0.22198506" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49322033" visible="true" weight="0.22465315" />
       <window_info id="Structure" order="1" weight="0.23147154" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -1028,7 +1029,7 @@
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.48801237" weight="0.29850745" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32786885" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49459878" weight="0.3074627" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49459878" visible="true" weight="0.30699775" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49785176" weight="0.37014925" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32896462" />
       <window_info anchor="bottom" id="Tail" order="14" />
@@ -1479,6 +1480,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/crazyJava/java8/deep/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -1528,17 +1536,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/work/batulu/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="154">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
