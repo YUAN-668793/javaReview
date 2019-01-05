@@ -8,10 +8,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/work/batulu/temp/PicNameUtil.java" line="24" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e23f1fee-134d-4bfe-be90-329f2ba97da9" name="Default" comment="2018/12/31">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/work/batulu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/work/batulu/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e23f1fee-134d-4bfe-be90-329f2ba97da9" name="Default" comment="2018/12/31" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,10 +211,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="273" />
-    <option name="y" value="59" />
+    <option name="x" value="272" />
+    <option name="y" value="58" />
     <option name="width" value="1315" />
-    <option name="height" value="921" />
+    <option name="height" value="922" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -614,7 +611,7 @@
       <workItem from="1546326545125" duration="3581000" />
       <workItem from="1546331675847" duration="18000" />
       <workItem from="1546430813321" duration="84000" />
-      <workItem from="1546515115930" duration="8000" />
+      <workItem from="1546515115930" duration="81000" />
     </task>
     <task id="LOCAL-00070" summary="包目录">
       <created>1536573893930</created>
@@ -995,7 +992,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459257000" />
+    <option name="totallyTimeSpent" value="459330000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1008,7 +1005,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49322033" visible="true" weight="0.22465315" />
       <window_info id="Structure" order="1" weight="0.23147154" />
