@@ -41,31 +41,5 @@ FW	外来词
 PU	标点
  */
 public class AlinlpCloudAppWordPos {
-    public static void main( String[] args ) throws Exception {
-        // serviceURL: https://dtplus-cn-shanghai.data.aliyuncs.com/{org_code}/nlp/api/WordPos/{Domain}
-        String serviceURL = "https://dtplus-cn-shanghai.data.aliyuncs.com/dt_ng_1458611335470551/nlp/api/WordPos/general";
-        String akID = "LTAIOsPXjatnH1zO";
-        String akSecret = "XtXu5pRgZxNAVYoNwC1L8rSBAcM4Zu";
-        // 填充请求body
-        // String postBody = "{\"text\":\"习近平关注两岸局势\"}";
-        JSONObject postBodyJson = new JSONObject();
-        postBodyJson.put("text", "习近平关注两岸局势");
-        // Sender代码参考 https://help.aliyun.com/document_detail/shujia/OCR/ocr-api/sender.html
-        // String result = Sender.sendPost(serviceURL, postBody, akID, akSecret);
-        AESDecode Sender = new AESDecode();
-        String result = Sender.sendPost(serviceURL, postBodyJson.toJSONString(), akID, akSecret);
-        System.out.println(result);
-        try {
-            JSONObject resultJson = JSON.parseObject(result);
-            JSONArray wordObjs = resultJson.getObject("data", JSONArray.class);
-            for(Object wordObj : wordObjs){
-                JSONObject wordJson = JSON.parseObject(wordObj.toString());
-                String pos = wordJson.getString("pos"); // 词性
-                String word = wordJson.getString("word"); // 词
-                System.out.printf("pos: %s, word: %s\n", pos, word);
-            }
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-    }
+   
 }
