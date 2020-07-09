@@ -9,9 +9,7 @@ public class AlinlpCloudAppSentiment {
     public static void main( String[] args ) throws Exception {
         // serviceURL: https://dtplus-cn-shanghai.data.aliyuncs.com/{org_code}/nlp/api/Sentiment/{Domain}
     	//目前仅支持电商邻域
-    	 String serviceURL = "https://dtplus-cn-shanghai.data.aliyuncs.com/dt_ng_1458611335470551/nlp/api/Sentiment/ecommerce";
-         String akID = "LTAIOsPXjatnH1zO";
-         String akSecret = "XtXu5pRgZxNAVYoNwC1L8rSBAcM4Zu";
+
         // 填充请求body
 //        String postBody = "{\n" +
 //                 "    \"text\": \"虽然有点贵，不是很修身，但颜色很亮，布料摸起来挺舒服的，图案也好看，挺喜欢的。\",\n" +
